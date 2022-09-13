@@ -15,6 +15,9 @@ https://medium.com/@quangnhatnguyenle/how-to-train-yolov3-on-google-colab-to-det
 
 
 Author :
+
 NGUYEN Danh-Lan
+
 3IF
+
 INSA de Lyon

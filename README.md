@@ -1,6 +1,6 @@
 This directory contains the code and dataset for my internship report 
 
-Colab code (contains DECIMER, YOLOv3 and YOLOv3 training) :
+Colab code (contains DECIMER Segmentation, YOLOv3 and YOLOv3 training) :
 
 https://drive.google.com/drive/folders/1_fHp6qL1XnRb3VjfNVYKx8H3xDNwOpFe?usp=sharing
 

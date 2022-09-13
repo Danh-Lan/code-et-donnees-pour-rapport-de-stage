@@ -14,10 +14,4 @@ The implementation of YOLOv3 follow this guide :
 https://medium.com/@quangnhatnguyenle/how-to-train-yolov3-on-google-colab-to-detect-custom-objects-e-g-gun-detection-d3a1ee43eda1
 
 
-Author :
-
-NGUYEN Danh-Lan
-
-3IF
-
-INSA de Lyon
+Author : NGUYEN Danh-Lan, 3IF, INSA de Lyon
